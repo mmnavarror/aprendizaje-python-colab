@@ -1,5 +1,3 @@
-#aprendizaje-python-colab
-Repositorio aprendizaje de Python usando colab
 # Aprendizaje de Python en Colab 🧠
 
 Este repositorio documenta el proceso de aprendizaje práctico de **María Margarita Navarro Rojas**, combinando teoría, ejercicios guiados y proyectos aplicados en Google Colab.
